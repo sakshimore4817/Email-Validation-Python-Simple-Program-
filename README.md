@@ -1,2 +1,2 @@
-# Email-Validation-Simple-Program-
-Email Validation Simple Program (Using if ,else conditions and  loop ) 
+# Email-Validation-Python-Simple-Program -
+Email Validation Python Simple Program (Using if ,else conditions and  loop ) 
